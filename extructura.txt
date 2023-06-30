@@ -1,0 +1,55 @@
+Estadísticas:
+
+Medidas de tendencia central:
+
+Media
+Mediana
+Moda
+Medidas de dispersión:
+
+Desviación estándar
+Varianza
+Rango
+Rango intercuartílico
+Coeficiente de variación
+Medidas de posición:
+
+Percentiles
+Cuartiles
+Deciles
+Medidas de forma:
+
+Asimetría
+Curtosis
+Análisis de correlación:
+
+Coeficiente de correlación de Pearson
+Coeficiente de correlación de Spearman
+Coeficiente de correlación de Kendall
+Regresión:
+
+Regresión lineal
+Regresión no lineal
+Probabilidades:
+
+Probabilidad básica:
+
+Probabilidad simple
+Probabilidad complementaria
+Probabilidad condicional:
+
+Regla del producto
+Regla de la suma
+Teorema de Bayes
+Combinatoria:
+
+Permutaciones
+Combinaciones
+Distribuciones de probabilidad:
+
+Distribución normal
+Distribución binomial
+Distribución de Poisson
+Distribución exponencial
+Distribución uniforme
+Distribución de Bernoulli
